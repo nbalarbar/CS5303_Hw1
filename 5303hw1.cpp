@@ -1,17 +1,12 @@
 /****************************************
 *
 * The Fate of Omnicron
-* Dr. Eric Becker
-* September 1, 2024
+* Noah Balarbar
+* August 24, 2024
 * Homework #1
-* Study Group: Codeslaying Superwomen!
+* Study Group: N/a
 * Study Group Members:
-* Grace Harper
-* Frances Allen
-* Radia Perlman
-* Barbara Liskov
-* Shafi Goldwasser
-*
+* Noah Balarbar
 ****************************************/
 // Include Library Header Files
 #include <conio.h>
